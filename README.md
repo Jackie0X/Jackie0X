@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![official2](https://user-images.githubusercontent.com/94861415/159154687-1cfe1d74-4300-405f-aea9-639eba5ab591.jpg)
+ 
 
 
 
@@ -67,10 +67,7 @@
 
 
 
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/sFUeS3E6Sz">
-        <img title="Jackie0X discord" alt="Jackie0X's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+
     </a>
 </p>
 
